@@ -1,0 +1,11 @@
+login_form: form[method="POST"]
+login_username: "username"
+login_password: "password"
+login_submit: "//a[text()='LOG IN']"
+forgot_password_link: "//a[text()='FORGOT PASSWORD?']"
+forgot_password_email: "#newEmail"
+forgot_password_submit: "//button[text()='SUBMIT']"
+tos_date: "//p[contains(text(), 'Effective as of')]"
+menu_open: "#menuOpen"
+language_dropdown: "#dropdownLanguage"
+language_list: ".secondaryMenu-Language"
